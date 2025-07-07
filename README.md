@@ -1,6 +1,35 @@
-- 👋 Hi, I’m @bobaSloba, my name is Slobodan Jevtić. I am from Trstenik,Serbia.I was born on August, 19th, 2001. in Kraljevo.
-- 👀 I’m interested in ...My interests varried trough life. I wanted to become many things , the ones that are still interesting to me are economics and programing. My whole life i am a tech savy guy , at least thats what i am known as in my comunity. When I was younger i competed in programing , but in highschool puberty hit me and i had different interests. Now that i am older and wiser i have decided to commit to learning how to code because i have realised that i want to create something and coding can fill that urge that i have for creating. I am eager to learn, trying to improve my focus, my habits , my methods every day.
-- 🌱 I’m currently learning ...Web development(HTML,CSS,JavaScript)
-- 💞️ I’m looking to collaborate on ...any web based project , i am trying to become a full stack developer so even if its in a language i dont know i would like to learn more about it and give my best to help out
-- 📫 How to reach me ... jevticslobodan01@gmail.com
+👋 Hi, I’m @bobaSloba — Slobodan Jevtić
 
+I'm from Trstenik, Serbia — born on August 19, 2001, in Kraljevo.
+Known locally as the “tech-savvy guy,” I’ve always been curious about how things work — especially computers.
+
+👀 Interests
+Throughout my life, my interests have shifted — from economics to gaming, from tech to creative work.
+Two things have stuck with me: economics and programming.
+
+I used to compete in programming when I was younger, but like many people, high school distracted me. Now, older and more self-aware, I've committed to coding again — this time for real. I want to build, create, and contribute.
+
+🌱 Currently Learning
+Python (habit-tracking app in Kivy)
+
+JavaScript (starting frontend foundations)
+
+Web development: HTML, CSS, and React next
+
+💡 Personal Goals
+Become a full-stack developer
+
+Build tools that help people track habits, stay productive, and improve mental health
+
+🤝 Open to Collaborations On
+Web-based projects (frontend or backend)
+
+Productivity, habit-tracking, or health-focused apps
+
+Anything that helps me learn and contribute
+
+📫 Reach Me At
+jevticslobodan01@gmail.com
+or message me on GitHub
+
+Share my journey and help others doing the same
